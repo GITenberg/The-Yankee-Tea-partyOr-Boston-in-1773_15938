@@ -1,0 +1,26 @@
+_repo: The-Yankee-Tea-partyOr-Boston-in-1773_15938
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, Henry C. (Henry Clay)
+    birthdate: 1831
+    deathdate: 1869
+    gutenberg_agent_id: '4002'
+    url: http://www.gutenberg.org/2009/agents/4002
+description: ''
+gutenberg_issued: '2005-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15938'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Anecdotes'
+title: The Yankee Tea-party; Or, Boston in 1773
+url: http://www.gutenberg.org/ebooks/15938
